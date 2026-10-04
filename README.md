@@ -1,6 +1,6 @@
 <div align="center">
 
-  # Hey there! I'm <span style="color: #6366F1;">[Your Name]</span> 👋
+  # Hey there! I'm <span style="color: #6366F1;">Muhammad Arslan Jaffer</span> 👋
 
   <!-- Animated Typing SVG -->
   <a href="https://git.io/typing-svg">
@@ -26,8 +26,8 @@
 
 ```javascript
 const developer = {
-  name: "Your Name",
-  type: "Full Stack Engineer & Tech Explorer",
+  name: "Muhammad Arslan Jaffer",
+  type: "AI/ML Engineer & Tech Explorer",
   coffeePerDay: Infinity,
   superpower: "Fixing bugs at 2:00 AM that I wrote at 1:59 AM",
   currentObsession: ["Distributed Systems", "Clean UI/UX", "Automation"],
@@ -35,8 +35,8 @@ const developer = {
 };
 ```
 
-- 🔭 **Working on:** [Name of your flagship project or current role]
-- 🌱 **Leveling up in:** [New technology, framework, or architecture you're learning]
+- 🔭 **Working on:** Parwarish.ai
+- 🌱 **Leveling up in:** Deep Learning and NLP
 - 💡 **Open for:** Collaborative open-source projects, exciting ideas, and tech discussions
 - 💬 **Ask me about:** JavaScript/TypeScript, Python, cloud architectures, or the best mechanical keyboard switches
 - ⚡ **Fun Fact:** My code works on the first try... approximately 0.003% of the time.
@@ -74,7 +74,7 @@ const developer = {
   <table border="0">
     <tr>
       <td>
-        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Arslan-SoftwareEngineer&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
       </td>
       <td>
         <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
@@ -83,7 +83,7 @@ const developer = {
   </table>
 
   <!-- Streak Stats -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Arslan-SoftwareEngineer&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
 </div>
 
@@ -101,9 +101,9 @@ const developer = {
 
 If you want to collaborate on a project, chat about technology, or debate tabs vs. spaces:
 
-- 📬 Drop me a line at: **your.email@example.com**
-- 💼 Connect on LinkedIn: **[linkedin.com/in/YOUR_LINKEDIN](https://linkedin.com/in/YOUR_LINKEDIN)**
-- 🌐 Explore my portfolio: **[yourportfolio.com](https://yourportfolio.com)**
+- 📬 Drop me a line at: **ars3lan.se@example.com**
+- 💼 Connect on LinkedIn: **[My LinkedIn](https://linkedin.com/in/muhammad-arslan-jaffer)**
+- 🌐 Explore my portfolio: **[My Portfolio](https://arslan-softwarengineer.netlify.app)**
 
 <div align="center">
   <br/>
