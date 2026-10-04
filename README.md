@@ -1,131 +1,140 @@
 <div align="center">
 
-  <!-- Player Status Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,11,21&height=180&section=header&text=PLAYER%201:%20ONLINE&fontSize=42&fontColor=ffffff&animation=twinkling" width="100%" alt="Header Banner" />
+  <!-- Stark Industries / Batcomputer Classified Banner -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,12,30&height=180&section=header&text=S.H.I.E.L.D.%20DOSSIER:%20CLASSIFIED&fontSize=38&fontColor=ffffff&animation=twinkling" width="100%" alt="Header Banner" />
 
-  <!-- Animated HUD Typing -->
+  <!-- JARVIS / Batcomputer Terminal Stream -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1000&color=00F5D4&center=true&vCenter=true&width=620&lines=%3E+Class%3A+Full-Stack+Architect+%2F+Bug+Bounty+Hunter;%3E+Passive%3A+Converts+caffeine+into+deployable+features;%3E+Equipped%3A+TypeScript%2C+Docker%2C+and+Neovim;%3E+Current+Status%3A+Raid-leading+production+releases" alt="Terminal Typing" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1000&color=E63946&center=true&vCenter=true&width=650&lines=%3E+Classified+Operative%3A+Full-Stack+Architect;%3E+Codename%3A+The+Terminal+Vigilante;%3E+Superpower%3A+Neutralizing+runtime+bugs+at+lightspeed;%3E+Alliances%3A+Stark+Industries+R%26D+%C3%97+Batcave+OS" alt="Classified Typing HUD" />
   </a>
 
   <br/>
 
-  <!-- Quick Party Invite / Connect Badges -->
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/PARTY_INVITE-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://twitter.com/YOUR_TWITTER"><img src="https://img.shields.io/badge/SUMMON_ON-X%2FTwitter-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter" /></a>
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/DIRECT_PING-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://yourportfolio.com"><img src="https://img.shields.io/badge/BASE_CAMP-Portfolio-7928CA?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio" /></a>
+  <!-- Superhero Hotline / Emergency Dispatch Badges -->
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/AVENGERS_HOTLINE-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://twitter.com/YOUR_TWITTER"><img src="https://img.shields.io/badge/BAT--SIGNAL-X%2FTwitter-111111?style=for-the-badge&logo=x&logoColor=white" alt="Twitter" /></a>
+  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/SECURE_TRANSMISSION-Email-D90429?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://yourportfolio.com"><img src="https://img.shields.io/badge/FORTRESS_OF_SOLITUDE-Portfolio-FFB703?style=for-the-badge&logo=firefox&logoColor=black" alt="Portfolio" /></a>
 
 </div>
 
 ---
 
-### 🎮 Player Character Sheet
+### 📂 Top Secret Operative Dossier
 
-```yaml
-Character:
-  Handle: "YOUR_HANDLE"
-  Title: "Full-Stack Sorcerer & System Tinkerer"
-  Level: 24
-  Alignment: "Chaotic Productive"
-  Base_Stats:
-    Architecture_Design: [██████████] 96%
-    Debugging_At_2AM:     [█████████░] 91%
-    Docker_Wizardry:      [████████░░] 84%
-    Git_Rebase_Courage:   [███████░░░] 72%
-    Caffeine_Saturation:  [██████████] 100%
-    Sleep_Deprivation:    [████░░░░░░] 38%
+```toml
+[OPERATIVE_PROFILE]
+Codename        = "YOUR_HANDLE"
+Alter_Ego       = "YOUR_NAME (Mild-mannered engineer by day, code crusader by night)"
+Affiliation     = "Justice League of Open Source / Avengers Tech Division"
+Clearance_Level = "Omega Level (Root Access)"
+Origin_Story    = "Bitten by a radioactive bug in production at 3:00 AM"
 
-Passive_Buffs:
-  - "Rubber Duck Clairvoyance (+20 insight when talking to inanimate objects)"
-  - "Flow State Trance (Grants +30 coding speed, immune to Slack notifications)"
-  - "Stack Overflow Archaeologist (Finds decade-old fixes with 2 upvotes)"
+[OFFICIAL_POWER_GRID]
+# Rated on a Marvel/DC scale of 1 to 7:
+Durability_Under_DDoS  = "███████ 7/7 (Unbreakable cluster uptime)"
+Deployment_Velocity    = "██████░ 6/7 (Faster than a speeding commit)"
+Bug_Extermination      = "███████ 7/7 (Batman-level preparation)"
+Coffee_Energy_Blast    = "███████ 7/7 (Arc Reactor powered)"
+Resistance_To_Legacy   = "████░░░ 4/7 (Kryptonite: Undocumented PHP 5.4)"
 ```
 
 ---
 
-### ⚔️ Combat Loadout & Skill Tree
+### ⚡ Superpowers & Mutational Abilities
+
+- 🧬 **Reality Warping (Front-End Mastery):** Reshapes digital matter into ultra-fluid, zero-latency user experiences before users even blink.
+- 🛡️ **Vibranium Infrastructure (Back-End & Cloud):** Forges microservices and API gateways built to withstand Thanos-level traffic spikes.
+- 👁️ **Bat-Prep Strategy (System Design):** Anticipates failure points weeks ahead; every server crash already has 3 contingency scripts waiting.
+- ⚡ **The Speed Force (DevOps & CI/CD):** Pushes automated test suites and zero-downtime rolling releases in the blink of an eye.
+
+---
+
+### 🛠️ Stark Industries Arsenal & WayneTech Gear
 
 <div align="center">
-  <!-- Interactive Modern Skill Icons -->
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,python,fastapi,postgres,mongodb,redis,docker,aws,linux,git,tailwind,neovim&perline=8" alt="Tech Loadout" />
+  <!-- Arsenal Icons -->
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,python,fastapi,postgres,mongodb,redis,docker,aws,linux,git,tailwind,neovim&perline=8" alt="Arsenal Icons" />
 </div>
 
 <br/>
 
-| Weapon Slot | Primary Gear | Description & Masteries |
+| Equipment Slot | Tech Gadget | Tactical Application |
 | :--- | :--- | :--- |
-| 🗡️ **Frontline Weapons** | `React`, `Next.js`, `TypeScript`, `Tailwind` | Snappy, responsive interfaces built for zero layout-shift and high FPS. |
-| 🛡️ **Backline Artillery** | `Node.js`, `FastAPI`, `Python`, `PostgreSQL` | High-throughput APIs, optimized database queries, and bulletproof auth. |
-| ⚙️ **Enchanted Armor** | `Docker`, `Kubernetes`, `AWS`, `Linux`, `CI/CD` | Containerized microservices, zero-downtime rolling deploys, and automated pipelines. |
-| 🗝️ **Utility Trinkets** | `Git`, `Postman`, `Redis`, `Neovim` | In-memory caching, ruthless terminal navigation, and clean commit logs. |
+| 🦾 **Exosuit HUD** | `TypeScript`, `React`, `Next.js`, `Tailwind` | Nanotech user interfaces with instant reactive feedback and pixel-perfect precision. |
+| ⚡ **Arc Reactor Core** | `Node.js`, `FastAPI`, `Python`, `PostgreSQL` | Heavy-duty compute engines processing distributed payloads and high-concurrency streams. |
+| 🛡️ **Kevlar / Vibranium Weave** | `Docker`, `Kubernetes`, `AWS`, `Linux` | Hardened container environments immune to localized system failures and network intrusions. |
+| 🦇 **Utility Belt Trinkets** | `Redis`, `Git`, `Neovim`, `Postman` | Rapid terminal grappling hooks, cache telemetry, and lethal command-line precision. |
 
 ---
 
-### 🏆 Hall of Achievements (Show-Off Shelf)
+### 🏅 Hall of Justice Trophies & Battle Records
 
 <div align="center">
-  <!-- Dynamic GitHub Trophies -->
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies" />
+  <!-- Dynamic GitHub Profile Trophies with Superhero Dark Theme -->
+  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=gruvbox&no-frame=false&no-bg=true&margin-w=4" alt="Hero Trophies" />
 </div>
 
 ```
-[✔] UNLOCKED: "Vim Escape Artist" -> Exited Vim without pulling the power plug.
-[✔] UNLOCKED: "Production Necromancer" -> Revived a crashing server with 1 shell script.
-[✔] UNLOCKED: "LGTM Speedrunner" -> Approved 400 lines of CSS in under 15 seconds.
-[✔] UNLOCKED: "Docker Slimmer" -> Shrunk a 1.8GB image down to 94MB alpine build.
-[ ] LOCKED:   "Sleep 8 Consecutive Hours" -> In progress... ETA unknown.
+[✔] MISSION: "The Snap Recovery"    -> Restored a wiped staging DB from a 5-minute cold snapshot.
+[✔] MISSION: "Escape Arkham Asylum"  -> Refactored a 4,000-line monolithic script into micro-modules.
+[✔] MISSION: "Jarvis Automation"    -> Programmed CI/CD bots to auto-triage issues while asleep.
+[✔] MISSION: "Vigilante Justice"    -> Squashed a critical race-condition zero-day before sunrise.
+[ ] MISSION: "Defeat The Backlog"   -> Villains multiply faster than Hydra heads. Mission ongoing.
 ```
 
 ---
 
-### 🗺️ Active Quests & Bounties
+### 🗺️ Current Threat Monitor & Active Missions
 
-```bash
-$ quest-log --active --priority=high
+```shell
+$ jarvis --scan-active-threats --priority=omega
 ```
 
-- 🏹 **Main Campaign:** Building `[Name of your flagship SaaS / project]` — An automated platform solving `[core problem]` using `[key tech]`.
-- 🧪 **Side Bounty:** Leveling up skill trees in **`[e.g., Rust / WebAssembly / AI Agents]`**.
-- 🤝 **Guild Co-op:** Open for collaborations on developer tools, high-performance web systems, and high-impact open-source bounties.
+- 🚨 **Primary Defense:** Developing **`[Flagship Project Name]`** — A high-performance solution engineered to defeat **`[Problem it solves]`** using **`[Core Tech Stack]`**.
+- 🧪 **R&D Incursion:** Synthesizing experimental powers in **`[e.g., Rust / WebAssembly / LLM Agents]`**.
+- 🤝 **Team-Ups:** Available for joint operations on ambitious startups, high-impact open source tools, and architecture consulting.
 
 ---
 
-### 📈 Battle Metrics & Telemetry
+### 📊 Satellite Telemetry & Power Diagnostics
 
 <div align="center">
 
   <table border="0">
     <tr>
       <td>
-        <img height="185em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&hide_border=true&count_private=true&rank_icon=github" alt="GitHub Stats" />
+        <img height="185em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=blood&hide_border=true&count_private=true&rank_icon=github" alt="Hero Stats" />
       </td>
       <td>
-        <img height="185em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+        <img height="185em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=blood&hide_border=true" alt="Top Languages" />
       </td>
     </tr>
   </table>
 
-  <!-- Streak Stats Card -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <!-- Streak Stats Card in Vigilante Red Theme -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=blood&hide_border=true" alt="Heroic Streak" />
 
 </div>
 
 ---
 
-### 📡 Party Up / Co-op Mode
+### 🚨 Signal The Hero
 
-Need an extra party member for a hackathon, an ambitious startup, or an open-source dungeon raid?
+Need an extra hero on your roster for a launch, emergency outage, or new software initiative?
 
 ```
-┌────────────────────────────────────────────────────────┐
-│  SELECT AN ACTION:                                     │
-│  [1] Send Guild Invite  --> your.email@example.com      │
-│  [2] Connect on Matrix  --> linkedin.com/in/YOUR_HANDLE│
-│  [3] Inspect Weaponry   --> yourportfolio.com          │
-└────────────────────────────────────────────────────────┘
+ ___________________________________________________________
+|                                                           |
+|   [!] LIGHT THE BAT-SIGNAL:                               |
+|       Dispatch: your.email@example.com                    |
+|       Comms:    linkedin.com/in/YOUR_HANDLE               |
+|       Archives: yourportfolio.com                         |
+|                                                           |
+|   "With great compute power comes great responsibility."  |
+|___________________________________________________________|
 ```
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,11,21&height=90&section=footer" width="100%" alt="Footer Wave" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,12,30&height=90&section=footer" width="100%" alt="Footer Wave" />
 </div>
