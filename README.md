@@ -1,14 +1,15 @@
 <!-- ============================================================
-  GitHub Profile README — Muhammad Arslan Jaffer (Arslan-SoftwareEngineer)
-  Replace the 3 items marked  👉 TODO  and you're done.
+  GitHub Profile README: Muhammad Arslan Jaffer (Arslan-SoftwareEngineer)
+  TODO: replace YOUR_LINKEDIN and your.email@example.com in the Connect section.
+  TODO: add your publication + internship details once the resume is shared.
 ============================================================ -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f2027,50:203a43,100:2c5364&height=260&section=header&text=Muhammad%20Arslan%20Jaffer&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%E2%80%A2%20Builder%20%E2%80%A2%20Future%20Founder&descSize=20&descAlignY=60&animation=fadeIn" width="100%" alt="Header" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f2027,50:203a43,100:2c5364&height=260&section=header&text=Muhammad%20Arslan%20Jaffer&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=AI%20%2F%20ML%20Enthusiast%20%E2%80%A2%20Software%20Engineer%20%E2%80%A2%20Future%20Founder&descSize=20&descAlignY=60&animation=fadeIn" width="100%" alt="Header" />
 
 <a href="https://github.com/Arslan-SoftwareEngineer">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=00D9FF&center=true&vCenter=true&width=720&height=50&lines=Hi+%F0%9F%91%8B+I'm+Arslan+%E2%80%94+a+.+.+.;Software+Engineering+Student+%40+Air+University;Building+AI-powered+products+that+matter;Flutter+%E2%80%A2+React+%E2%80%A2+Python+%E2%80%A2+MERN;Dreaming+big%3A+founding+an+innovative+tech+company+%F0%9F%9A%80" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=00D9FF&center=true&vCenter=true&width=760&height=50&lines=Hi+%F0%9F%91%8B+I'm+Arslan;Software+Engineering+Student+%40+Air+University;Machine+Learning+%E2%80%A2+Deep+Learning+%E2%80%A2+NLP;Building+AI+products+that+solve+real+problems;Going+deeper+into+AI+every+day+%F0%9F%9A%80" alt="Typing animation" />
 </a>
 
 <br/>
@@ -21,35 +22,33 @@
 
 <br/>
 
-<!-- ====================== ABOUT ====================== -->
-
 ## 👨‍💻 About Me
 
 ```python
 class Developer:
     name       = "Muhammad Arslan Jaffer"
-    education  = "BS Software Engineering @ Air University, Islamabad (2023 – 2027)"
-    focus      = ["AI-powered apps", "Full-stack development", "Human-centered design"]
-    currently  = ["Final Year Project: AASAAN", "Learning Full Stack Development (MERN)"]
-    goal       = "Become a great programmer & found an innovative tech company"
-    fun_fact   = "I get more excited about shipping an idea than finishing a to-do list."
+    education  = "BS Software Engineering @ Air University, Islamabad (2023 - 2027)"
+    focus      = ["Machine Learning", "Deep Learning", "NLP & LLM applications"]
+    experience = ["Machine Learning Internship", "Deep Learning Internship (2026)"]
+    currently  = ["Final Year Project: Parwarish.ai", "Diving deeper into the AI world"]
+    goal       = "Find my expertise in AI and found an innovative tech company"
 ```
 
-I'm a software engineering student who loves **turning ideas into real, working products**. I enjoy the full journey — from requirements and design to code and deployment — and I care about building software that actually helps people.
+I'm a software engineering student whose heart is in **AI and machine learning**. I've completed an ML internship and a Deep Learning internship, and I love taking models from idea to a working product, from training my own models to wrapping them in real applications.
 
 <br/>
-
-<!-- ====================== FEATURED PROJECT ====================== -->
 
 ## 🚀 Featured Project
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2c5364,100:0f2027&height=90&section=header&text=AASAAN&fontSize=40&fontColor=ffffff&desc=AI-Powered%20Multilingual%20Autism%20Support%20Platform&descSize=16" width="100%" alt="AASAAN" />
+<a href="https://github.com/Arslan-SoftwareEngineer/Parwarish-ai">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2c5364,100:0f2027&height=90&section=header&text=Parwarish.ai&fontSize=40&fontColor=ffffff&desc=AI-Powered%20Multilingual%20Autism%20Support%20Platform&descSize=16" width="100%" alt="Parwarish.ai" />
+</a>
 
 </div>
 
-**AASAAN** is my Final Year Project — an **AI-powered, multilingual autism support platform built for Pakistan**, developed by a three-person team.
+**Parwarish.ai** (formerly AASAAN) is my **Final Year Project**: an AI-powered, multilingual autism support platform for Pakistan, built by a team of three.
 
 | | |
 |---|---|
@@ -59,40 +58,70 @@ I'm a software engineering student who loves **turning ideas into real, working 
 | 🌐 **Urdu Localization** | Built to serve local language needs |
 | 📴 **Offline Functionality** | Works where connectivity is limited |
 
-**Tech Stack**
-
-<img src="https://skillicons.dev/icons?i=flutter,dart,react,firebase,tensorflow,python&theme=dark" alt="AASAAN stack" />
+<img src="https://skillicons.dev/icons?i=flutter,dart,react,firebase,tensorflow,py&theme=dark" alt="Parwarish.ai stack" />
 
 `Flutter / Dart` · `ReactJS` · `Firebase` · `TensorFlow Lite` · `XLM-RoBERTa` · `Python`
 
+<div align="center">
+<a href="https://github.com/Arslan-SoftwareEngineer/Parwarish-ai"><img src="https://img.shields.io/badge/View%20Repository-Parwarish--ai-00d9ff?style=for-the-badge&logo=github&logoColor=black" alt="Repo" /></a>
+</div>
+
 <br/>
 
-<!-- ====================== OTHER PROJECTS ====================== -->
-
-## 🧪 More Projects
+## 🧪 Projects
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>🚨 Safec Emergency System</h3>
-      <p>An emergency guidance and response-coordination application, designed with HCI principles for fast, clear use under stress.</p>
-      <img src="https://img.shields.io/badge/HCI-UI%2FUX-00d9ff?style=flat-square" />
-      <img src="https://img.shields.io/badge/Course%20Project-203a43?style=flat-square" />
+      <h3>🤖 <a href="https://github.com/Arslan-SoftwareEngineer/RAG-PDF-Chatbot">RAG PDF Chatbot</a></h3>
+      <p>Chat with your PDF documents. Uses Retrieval-Augmented Generation to answer questions grounded in the document's content.</p>
+      <img src="https://img.shields.io/badge/RAG-00d9ff?style=flat-square" />
+      <img src="https://img.shields.io/badge/LLM-203a43?style=flat-square" />
+      <img src="https://img.shields.io/badge/Custom%20Trained%20Model-2c5364?style=flat-square" />
     </td>
     <td width="50%" valign="top">
-      <h3>🌦️ Weather Forecast API</h3>
-      <p>MERN-stack lab project that fetches live weather data using the OpenWeather API and Axios, built and tested on Ubuntu.</p>
-      <img src="https://img.shields.io/badge/MERN-Stack-00d9ff?style=flat-square" />
-      <img src="https://img.shields.io/badge/Axios-203a43?style=flat-square" />
+      <h3>🛒 <a href="https://github.com/Arslan-SoftwareEngineer/E-Commerce-Web-Scraper">E-Commerce Web Scraper</a></h3>
+      <p>Collects product data from e-commerce sites and applies machine learning on top of it, including models I trained myself.</p>
+      <img src="https://img.shields.io/badge/Web%20Scraping-00d9ff?style=flat-square" />
+      <img src="https://img.shields.io/badge/Machine%20Learning-203a43?style=flat-square" />
+      <img src="https://img.shields.io/badge/Custom%20Trained%20Model-2c5364?style=flat-square" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🧠 <a href="https://github.com/Arslan-SoftwareEngineer/NLP-Classfication-App">NLP Classification App</a></h3>
+      <p>An application that classifies text using natural language processing models.</p>
+      <img src="https://img.shields.io/badge/NLP-00d9ff?style=flat-square" />
+      <img src="https://img.shields.io/badge/Text%20Classification-203a43?style=flat-square" />
+    </td>
+    <td width="50%" valign="top">
+      <h3>⛳ <a href="https://github.com/Arslan-SoftwareEngineer/Golf-Ball-Trajectory-System">Golf Ball Trajectory System</a></h3>
+      <p>A system that analyzes and predicts the trajectory of a golf ball.</p>
+      <img src="https://img.shields.io/badge/Trajectory%20Analysis-00d9ff?style=flat-square" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🚗 <a href="https://github.com/Arslan-SoftwareEngineer/Rido">Rido</a></h3>
+      <p>An app for vehicle owners to keep track of their vehicle's service records and maintenance history in one place.</p>
+      <img src="https://img.shields.io/badge/Mobile%20App-00d9ff?style=flat-square" />
+    </td>
+    <td width="50%" valign="top">
+      <h3>🚨 <a href="https://github.com/Arslan-SoftwareEngineer?tab=repositories">Safec Emergency Application</a></h3>
+      <p>An emergency guidance and response application, designed with HCI principles for fast, clear use under stress.</p>
+      <img src="https://img.shields.io/badge/HCI-00d9ff?style=flat-square" />
+      <img src="https://img.shields.io/badge/UI%2FUX-203a43?style=flat-square" />
     </td>
   </tr>
 </table>
 
-> 📌 *Check my pinned repositories below for more of my work.*
+<div align="center">
+
+📂 **All my projects are available on my [GitHub profile](https://github.com/Arslan-SoftwareEngineer?tab=repositories).**
+
+</div>
 
 <br/>
-
-<!-- ====================== TECH STACK ====================== -->
 
 ## 🛠️ Tech Stack
 
@@ -100,23 +129,27 @@ I'm a software engineering student who loves **turning ideas into real, working 
 
 **Languages**
 
-<img src="https://skillicons.dev/icons?i=cpp,python,dart,js,html,css&theme=dark" alt="Languages" />
+<img src="https://skillicons.dev/icons?i=py,c,cpp,java,js,dart&theme=dark" alt="Languages" />
 
-**Frontend & Mobile**
+**Mobile & Web**
 
-<img src="https://skillicons.dev/icons?i=react,flutter,figma&theme=dark" alt="Frontend" />
+<img src="https://skillicons.dev/icons?i=flutter,react,nextjs,nodejs,express&theme=dark" alt="Mobile and Web" />
 
-**Backend & Databases**
+**Databases (SQL / NoSQL)**
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,oracle,firebase&theme=dark" alt="Backend" />
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase&theme=dark" alt="Databases" />
 
-**AI / ML**
+**AI / ML (my main focus)**
 
-<img src="https://skillicons.dev/icons?i=tensorflow,python&theme=dark" alt="AI" />
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn&theme=dark" alt="AI and ML" />
 
-**Tools & Platforms**
+<br/>
 
-<img src="https://skillicons.dev/icons?i=git,github,linux,ubuntu,vscode&theme=dark" alt="Tools" />
+<img src="https://img.shields.io/badge/Transformers-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Transformers" />
+<img src="https://img.shields.io/badge/BERT-2c5364?style=for-the-badge" alt="BERT" />
+<img src="https://img.shields.io/badge/Aspect--Based%20Sentiment%20Analysis-203a43?style=for-the-badge" alt="ABSA" />
+<img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" alt="Ollama" />
+<img src="https://img.shields.io/badge/Groq-F55036?style=for-the-badge" alt="Groq" />
 
 </div>
 
@@ -124,18 +157,16 @@ I'm a software engineering student who loves **turning ideas into real, working 
 <summary><b>📚 Core Competencies (click to expand)</b></summary>
 <br/>
 
-- **Programming:** C++ (OOP, Data Structures), Python, Dart, JavaScript
-- **Databases:** Oracle SQL, MongoDB, Firebase
-- **Software Engineering:** Requirements Engineering, Software Design & Analysis, UML, Project Management (IEEE 1058 SPMP, WBS, RACI, risk management)
-- **Design:** UI/UX and Human-Computer Interaction
-- **Networking:** Cisco Packet Tracer
-- **AI:** On-device ML with TensorFlow Lite, multilingual NLP with XLM-RoBERTa
+- **Machine Learning:** Scikit-Learn, model training and evaluation
+- **Deep Learning:** PyTorch, TensorFlow / TensorFlow Lite
+- **NLP:** Transformers, BERT models, Aspect-Based Sentiment Analysis
+- **LLM Applications:** RAG pipelines, local and hosted inference with Ollama and Groq
+- **Programming:** Python, C, C++, Java, JavaScript, Dart
+- **Full Stack:** Flutter, React.js, Next.js, Node.js, Express.js, MongoDB, SQL/NoSQL
 
 </details>
 
 <br/>
-
-<!-- ====================== EDUCATION ====================== -->
 
 ## 🎓 Education
 
@@ -143,23 +174,11 @@ I'm a software engineering student who loves **turning ideas into real, working 
 
 | 🏫 Institution | 📖 Degree | 📅 Duration |
 |:---:|:---:|:---:|
-| **Air University, Islamabad** | BS Software Engineering | 2023 – 2027 |
+| **Air University, Islamabad** | BS Software Engineering | 2023 - 2027 |
 
 </div>
 
-<details>
-<summary><b>📘 Coursework (click to expand)</b></summary>
 <br/>
-
-**Completed:** Programming Fundamentals · Object-Oriented Programming · Data Structures · Databases · Computer Networks · Software Requirement Engineering · Software Design & Analysis · Human-Computer Interaction · ICT
-
-**In Progress:** Full Stack Development · Software Project Management
-
-</details>
-
-<br/>
-
-<!-- ====================== STATS ====================== -->
 
 ## 📊 GitHub Stats
 
@@ -180,8 +199,6 @@ I'm a software engineering student who loves **turning ideas into real, working 
 
 <br/>
 
-<!-- ====================== ACTIVITY GRAPH ====================== -->
-
 ## 📈 Contribution Activity
 
 <div align="center">
@@ -189,8 +206,6 @@ I'm a software engineering student who loves **turning ideas into real, working 
 </div>
 
 <br/>
-
-<!-- ====================== SNAKE ====================== -->
 
 ## 🐍 Contribution Snake
 
@@ -204,8 +219,6 @@ I'm a software engineering student who loves **turning ideas into real, working 
 
 <br/>
 
-<!-- ====================== TROPHIES ====================== -->
-
 ## 🏆 Trophies
 
 <div align="center">
@@ -214,37 +227,33 @@ I'm a software engineering student who loves **turning ideas into real, working 
 
 <br/>
 
-<!-- ====================== GOALS ====================== -->
+## 🎯 Roadmap
 
-## 🎯 Goals & Roadmap
-
-- [x] Build strong foundations: C++, OOP, Data Structures, Databases
-- [x] Design & ship course projects across every semester
-- [ ] 🔄 Complete and showcase the **AASAAN** Final Year Project
-- [ ] 🔄 Master the **MERN stack** and full-stack architecture
-- [ ] Contribute to open-source projects
-- [ ] Build and launch my own product
-- [ ] 🚀 **Found an innovative tech company**
+- [x] Build strong foundations in programming, data structures, and databases
+- [x] Complete an ML internship and a Deep Learning internship
+- [x] Train my own models and ship them in real projects
+- [ ] 🔄 Complete and showcase the Final Year Project, **Parwarish.ai**
+- [ ] 🔄 Go deeper into AI and the wider AI world
+- [ ] 🔄 Find my area of expertise within AI
+- [ ] 🚀 Found an innovative tech company
 
 <br/>
 
-<!-- ====================== CONNECT ====================== -->
-
 ## 🤝 Let's Connect
 
-I'm always open to collaborating on interesting projects, learning from other developers, and exploring internship and opportunities.
+I'm open to collaborating on AI/ML projects, learning from other engineers, and exploring internship and research opportunities.
 
 <div align="center">
 
-<!-- 👉 TODO 1: replace YOUR_LINKEDIN with your LinkedIn username -->
+<!-- TODO: replace YOUR_LINKEDIN with your LinkedIn username -->
 <a href="https://www.linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<!-- 👉 TODO 2: replace with your email -->
+<!-- TODO: replace with your email -->
 <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 <a href="https://github.com/Arslan-SoftwareEngineer"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=4000&pause=1000&color=8B949E&center=true&vCenter=true&width=600&lines=%22Code+is+poetry+that+machines+can+read.%22;%22Make+it+work%2C+make+it+right%2C+make+it+fast.%22" alt="Quote" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=4000&pause=1000&color=8B949E&center=true&vCenter=true&width=600&lines=%22Train+it%2C+test+it%2C+ship+it.%22;%22Every+model+starts+with+a+good+question.%22" alt="Quote" />
 
 <br/>
 
