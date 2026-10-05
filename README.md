@@ -31,7 +31,7 @@ class Developer:
     focus      = ["Machine Learning", "Deep Learning", "NLP & LLM applications"]
     experience = ["Machine Learning Internship", "Deep Learning Internship (2026)"]
     currently  = ["Final Year Project: Parwarish.ai", "Diving deeper into the AI world"]
-    goal       = "Find my expertise in AI and find an innovative tech company"
+    goal       = "Find my expertise in AI and found an innovative tech company"
 ```
 
 I'm a software engineering student whose heart is in **AI and machine learning**. I've completed an ML internship and a Deep Learning internship, and I love taking models from idea to a working product, from training my own models to wrapping them in real applications.
@@ -137,7 +137,10 @@ I'm a software engineering student whose heart is in **AI and machine learning**
 
 **Databases (SQL / NoSQL)**
 
-<img src="https://skillicons.dev/icons?i=mysql,oracle,mongodb,firebase&theme=dark" alt="Databases" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="48" alt="MySQL" />&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="48" alt="Oracle SQL" />&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="48" alt="MongoDB" />&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-original.svg" height="48" alt="Firebase" />
 
 **AI / ML (my main focus)**
 
