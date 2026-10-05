@@ -31,7 +31,7 @@ class Developer:
     focus      = ["Machine Learning", "Deep Learning", "NLP & LLM applications"]
     experience = ["Machine Learning Internship", "Deep Learning Internship (2026)"]
     currently  = ["Final Year Project: Parwarish.ai", "Diving deeper into the AI world"]
-    goal       = "Find my expertise in AI and found an innovative tech company"
+    goal       = "Find my expertise in AI and find an innovative tech company"
 ```
 
 I'm a software engineering student whose heart is in **AI and machine learning**. I've completed an ML internship and a Deep Learning internship, and I love taking models from idea to a working product, from training my own models to wrapping them in real applications.
@@ -43,7 +43,7 @@ I'm a software engineering student whose heart is in **AI and machine learning**
 <div align="center">
 
 <a href="https://github.com/Arslan-SoftwareEngineer/Parwarish-ai">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2c5364,100:0f2027&height=90&section=header&text=Parwarish.ai&fontSize=40&fontColor=ffffff&desc=AI-Powered%20Multilingual%20Autism%20Support%20Platform&descSize=16" width="100%" alt="Parwarish.ai" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2c5364,100:0f2027&height=140&section=header&text=Parwarish.ai&fontSize=44&fontColor=ffffff&fontAlignY=38&desc=AI-Powered%20Multilingual%20Autism%20Support%20Platform&descSize=17&descAlignY=65" width="100%" alt="Parwarish.ai" />
 </a>
 
 </div>
@@ -129,7 +129,7 @@ I'm a software engineering student whose heart is in **AI and machine learning**
 
 **Languages**
 
-<img src="https://skillicons.dev/icons?i=py,c,cpp,java,js,dart&theme=dark" alt="Languages" />
+<img src="https://skillicons.dev/icons?i=py,c,cpp,java,js,dart,html,css&theme=dark" alt="Languages" />
 
 **Mobile & Web**
 
@@ -137,11 +137,19 @@ I'm a software engineering student whose heart is in **AI and machine learning**
 
 **Databases (SQL / NoSQL)**
 
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase&theme=dark" alt="Databases" />
+<img src="https://skillicons.dev/icons?i=mysql,oracle,mongodb,firebase&theme=dark" alt="Databases" />
 
 **AI / ML (my main focus)**
 
 <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn&theme=dark" alt="AI and ML" />
+
+**Design**
+
+<img src="https://skillicons.dev/icons?i=figma&theme=dark" alt="Design" />
+
+**Tools & Platforms**
+
+<img src="https://skillicons.dev/icons?i=git,github,linux,ubuntu,vscode&theme=dark" alt="Tools" />
 
 <br/>
 
@@ -161,8 +169,13 @@ I'm a software engineering student whose heart is in **AI and machine learning**
 - **Deep Learning:** PyTorch, TensorFlow / TensorFlow Lite
 - **NLP:** Transformers, BERT models, Aspect-Based Sentiment Analysis
 - **LLM Applications:** RAG pipelines, local and hosted inference with Ollama and Groq
-- **Programming:** Python, C, C++, Java, JavaScript, Dart
-- **Full Stack:** Flutter, React.js, Next.js, Node.js, Express.js, MongoDB, SQL/NoSQL
+- **Programming:** Python, C, C++ (OOP, Data Structures), Java, JavaScript, Dart, HTML, CSS
+- **Full Stack:** Flutter, React.js, Next.js, Node.js, Express.js (MERN stack)
+- **Databases:** Oracle SQL, SQL/NoSQL, MongoDB, Firebase
+- **Software Engineering:** Requirements Engineering, Software Design & Analysis, UML, Project Management (IEEE 1058 SPMP, WBS, RACI, risk management)
+- **Design:** UI/UX and Human-Computer Interaction
+- **Networking:** Cisco Packet Tracer
+- **Tools:** Git, GitHub, Linux (Ubuntu), VS Code
 
 </details>
 
@@ -177,6 +190,16 @@ I'm a software engineering student whose heart is in **AI and machine learning**
 | **Air University, Islamabad** | BS Software Engineering | 2023 - 2027 |
 
 </div>
+
+<details>
+<summary><b>📘 Coursework (click to expand)</b></summary>
+<br/>
+
+**Completed:** Programming Fundamentals · Object-Oriented Programming · Data Structures · Databases · Computer Networks · Software Requirement Engineering · Software Design & Analysis · Human-Computer Interaction · ICT
+
+**In Progress:** Full Stack Development · Software Project Management
+
+</details>
 
 <br/>
 
