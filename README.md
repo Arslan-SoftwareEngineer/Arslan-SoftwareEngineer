@@ -4,7 +4,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,45:7f1d1d,100:b8860b&height=260&section=header&text=Muhammad%20Arslan%20Jaffer&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=AI%20%2F%20ML%20Enthusiast%20%E2%80%A2%20Software%20Engineer&descSize=20&descAlignY=60&animation=fadeIn" width="100%" alt="Header" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,45:7f1d1d,100:b8860b&height=260&section=header&text=Muhammad%20Arslan%20Jaffer&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=AI%20%2F%20ML%20Enthusiast%20%E2%80%A2%20Software%20Engineer%20%E2%80%A2%20Future%20Founder&descSize=20&descAlignY=60&animation=fadeIn" width="100%" alt="Header" />
 
 <img src="./assets/arc-reactor.svg" width="84" alt="Arc reactor" />
 
@@ -90,7 +90,11 @@ My focus is applied **Deep Learning, LLM integration, and agentic workflows**, b
 
 **Mobile & Web**
 
-<img src="https://skillicons.dev/icons?i=flutter,react,nextjs,nodejs,express&theme=dark" alt="Mobile and Web" />
+<img src="https://skillicons.dev/icons?i=flutter,react,nextjs,nodejs,express,tailwind,jquery&theme=dark" alt="Mobile and Web" />
+
+**Backend Frameworks**
+
+<img src="https://skillicons.dev/icons?i=dotnet,fastapi,flask&theme=dark" alt="Backend Frameworks" />
 
 **Databases (SQL / NoSQL)**
 
@@ -103,26 +107,6 @@ My focus is applied **Deep Learning, LLM integration, and agentic workflows**, b
 
 <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn&theme=dark" alt="AI and ML" />
 
-**Design**
-
-<img src="https://skillicons.dev/icons?i=figma,ai&theme=dark" alt="Design" />&nbsp;&nbsp;<img src="./assets/canva.svg" width="48" height="48" alt="Canva" />
-
-**Tools & Platforms**
-
-<img src="https://skillicons.dev/icons?i=git,github,linux,ubuntu&theme=dark" alt="Tools" />&nbsp;&nbsp;<img src="./assets/fedora.svg" width="48" height="48" alt="Fedora" />&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=vscode&theme=dark" alt="VS Code" />
-
-**DevOps & Deployment**
-
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
-<img src="https://img.shields.io/badge/Apache%20Tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=black" alt="Tomcat" />
-<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit" />
-<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
-<img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Netlify" />
-<img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n" />
-
-<br/>
-
 <img src="https://img.shields.io/badge/Transformers-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Transformers" />
 <img src="https://img.shields.io/badge/BERT-9b2226?style=for-the-badge" alt="BERT" />
 <img src="https://img.shields.io/badge/Aspect--Based%20Sentiment%20Analysis-7f1d1d?style=for-the-badge" alt="ABSA" />
@@ -133,6 +117,26 @@ My focus is applied **Deep Learning, LLM integration, and agentic workflows**, b
 <img src="https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logo=pinecone&logoColor=white" alt="Pinecone" />
 <img src="https://img.shields.io/badge/Prompt%20Engineering-9b2226?style=for-the-badge" alt="Prompt Engineering" />
 <img src="https://img.shields.io/badge/Agentic%20Workflows-7f1d1d?style=for-the-badge" alt="Agentic Workflows" />
+
+**Design**
+
+<img src="https://skillicons.dev/icons?i=figma,ai,blender&theme=dark" alt="Design" />&nbsp;&nbsp;<img src="./assets/canva.svg" width="48" height="48" alt="Canva" />&nbsp;&nbsp;<img src="./assets/dribbble.svg" width="48" height="48" alt="Dribbble" />
+
+**Tools & Platforms**
+
+<img src="https://skillicons.dev/icons?i=git,github,linux,ubuntu&theme=dark" alt="Tools" />&nbsp;&nbsp;<img src="./assets/fedora.svg" width="48" height="48" alt="Fedora" />&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=vscode,postman&theme=dark" alt="VS Code and Postman" />
+
+**DevOps & Deployment**
+
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,jenkins&theme=dark" alt="Docker, Kubernetes, Jenkins" />&nbsp;&nbsp;<img src="./assets/tomcat.svg" width="48" height="48" alt="Tomcat" />&nbsp;&nbsp;<img src="./assets/streamlit.svg" width="48" height="48" alt="Streamlit" />&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=vercel,netlify&theme=dark" alt="Vercel and Netlify" />&nbsp;&nbsp;<img src="./assets/n8n.svg" width="48" height="48" alt="n8n" />
+
+**Testing**
+
+<img src="https://skillicons.dev/icons?i=selenium&theme=dark" alt="Selenium" />&nbsp;&nbsp;<img src="./assets/junit5.svg" width="48" height="48" alt="JUnit 5" />&nbsp;&nbsp;<img src="https://img.shields.io/badge/TestNG-E76F00?style=for-the-badge" alt="TestNG" />
+
+**Project Management**
+
+<img src="./assets/jira.svg" width="48" height="48" alt="Jira" />&nbsp;&nbsp;<img src="./assets/trello.svg" width="48" height="48" alt="Trello" />&nbsp;&nbsp;<img src="https://img.shields.io/badge/monday.com-FF3D57?style=for-the-badge" alt="Monday.com" />
 
 </div>
 
@@ -147,13 +151,16 @@ My focus is applied **Deep Learning, LLM integration, and agentic workflows**, b
 - **Agentic Workflows:** Python agents orchestrated through n8n automation pipelines, connected to Flutter frontends
 - **Vector Databases & Prompt Engineering:** Pinecone, prompt design for LLM applications
 - **Programming:** Python, C, C++ (OOP, Data Structures), Java, C#, JavaScript, Dart, HTML, CSS
-- **Full Stack:** Flutter, React.js, Next.js, Node.js, Express.js (MERN stack)
+- **Full Stack:** Flutter, React.js, Next.js, Node.js, Express.js (MERN stack), Tailwind CSS, jQuery
+- **Backend Frameworks:** FastAPI, Flask, .NET
 - **Databases:** Oracle SQL, SQL/NoSQL, MongoDB, Firebase
 - **Software Engineering:** Requirements Engineering, Software Design & Analysis, Software Construction, Testing Strategies, Quality Engineering, UML, Project Management (IEEE 1058 SPMP, WBS, RACI, risk management)
-- **DevOps & MLOps:** Docker, Kubernetes deployment, Tomcat server, Vercel, Netlify, Streamlit, n8n
-- **Design:** UI/UX and Human-Computer Interaction
+- **DevOps & MLOps:** Docker, Kubernetes deployment, Tomcat server, Vercel, Netlify, Streamlit, n8n, Jenkins
+- **Design:** UI/UX and Human-Computer Interaction (Figma, Canva, Dribbble, Blender)
+- **Testing:** Selenium, JUnit 5, TestNG
+- **Project Management Tools:** Jira, Monday.com, Trello
 - **Networking:** Cisco Packet Tracer
-- **Tools:** Git, GitHub, Linux (Fedora/Ubuntu), VS Code
+- **Tools:** Git, GitHub, Linux (Fedora/Ubuntu), VS Code, Postman
 - **Soft Skills:** Creative problem solving, team collaboration, adaptability & self-learning, systems thinking & workflow optimization
 
 </details>
