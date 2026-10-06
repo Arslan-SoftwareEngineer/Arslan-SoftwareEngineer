@@ -132,11 +132,15 @@ My focus is applied **Deep Learning, LLM integration, and agentic workflows**, b
 
 **Testing**
 
-<img src="https://skillicons.dev/icons?i=selenium&theme=dark" alt="Selenium" />&nbsp;&nbsp;<img src="./assets/junit5.svg" width="48" height="48" alt="JUnit 5" />&nbsp;&nbsp;<img src="https://img.shields.io/badge/TestNG-E76F00?style=for-the-badge" alt="TestNG" />
+<img src="https://skillicons.dev/icons?i=selenium&theme=dark" alt="Selenium" />&nbsp;&nbsp;<img src="./assets/junit5.svg" width="48" height="48" alt="JUnit 5" />
+
+<img src="https://img.shields.io/badge/TestNG-E76F00?style=for-the-badge" alt="TestNG" />
 
 **Project Management**
 
-<img src="./assets/jira.svg" width="48" height="48" alt="Jira" />&nbsp;&nbsp;<img src="./assets/trello.svg" width="48" height="48" alt="Trello" />&nbsp;&nbsp;<img src="https://img.shields.io/badge/monday.com-FF3D57?style=for-the-badge" alt="Monday.com" />
+<img src="./assets/jira.svg" width="48" height="48" alt="Jira" />&nbsp;&nbsp;<img src="./assets/trello.svg" width="48" height="48" alt="Trello" />
+
+<img src="https://img.shields.io/badge/monday.com-FF3D57?style=for-the-badge" alt="Monday.com" />
 
 </div>
 
