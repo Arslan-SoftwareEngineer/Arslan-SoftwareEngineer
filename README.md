@@ -6,21 +6,23 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f2027,50:203a43,100:2c5364&height=260&section=header&text=Muhammad%20Arslan%20Jaffer&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=AI%20%2F%20ML%20Enthusiast%20%E2%80%A2%20Software%20Engineer%20%E2%80%A2%20Future%20Founder&descSize=20&descAlignY=60&animation=fadeIn" width="100%" alt="Header" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,45:7f1d1d,100:b8860b&height=260&section=header&text=Muhammad%20Arslan%20Jaffer&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=AI%20%2F%20ML%20Enthusiast%20%E2%80%A2%20Software%20Engineer%20%E2%80%A2%20Future%20Founder&descSize=20&descAlignY=60&animation=fadeIn" width="100%" alt="Header" />
+
+<img src="./assets/arc-reactor.svg" width="84" alt="Arc reactor" />
 
 <a href="https://github.com/Arslan-SoftwareEngineer">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=00D9FF&center=true&vCenter=true&width=760&height=50&lines=Hi+%F0%9F%91%8B+I'm+Arslan;Software+Engineering+Student+%40+Air+University;Machine+Learning+%E2%80%A2+Deep+Learning+%E2%80%A2+NLP;Building+AI+products+that+solve+real+problems;Going+deeper+into+AI+every+day+%F0%9F%9A%80" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=F5B301&center=true&vCenter=true&width=760&height=50&lines=Hi+%F0%9F%91%8B+I'm+Arslan;Software+Engineering+Student+%40+Air+University;Machine+Learning+%E2%80%A2+Deep+Learning+%E2%80%A2+NLP;Building+AI+products+that+solve+real+problems;Going+deeper+into+AI+every+day+%F0%9F%9A%80;Side+quest%3A+building+my+own+J.A.R.V.I.S.+%F0%9F%A4%96" alt="Typing animation" />
 </a>
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=Arslan-SoftwareEngineer&label=Profile+Views&color=00d9ff&style=for-the-badge" alt="Profile views" />
-<img src="https://img.shields.io/github/followers/Arslan-SoftwareEngineer?label=Followers&style=for-the-badge&logo=github&color=2c5364&labelColor=0f2027" alt="Followers" />
-<img src="https://img.shields.io/badge/Based%20in-Islamabad%2C%20Pakistan-0f2027?style=for-the-badge&logo=googlemaps&logoColor=00d9ff" alt="Location" />
+<img src="https://komarev.com/ghpvc/?username=Arslan-SoftwareEngineer&label=Profile+Views&color=F5B301&style=for-the-badge" alt="Profile views" />
+<img src="https://img.shields.io/github/followers/Arslan-SoftwareEngineer?label=Followers&style=for-the-badge&logo=github&color=9b2226&labelColor=0d1117" alt="Followers" />
+<img src="https://img.shields.io/badge/Based%20in-Islamabad%2C%20Pakistan-0d1117?style=for-the-badge&logo=googlemaps&logoColor=F5B301" alt="Location" />
 
 </div>
 
-<br/>
+<div align="center"><img src="./assets/divider.svg" width="100%" alt="" /></div>
 
 ## 👨‍💻 About Me
 
@@ -31,19 +33,20 @@ class Developer:
     focus      = ["Machine Learning", "Deep Learning", "NLP & LLM applications"]
     experience = ["Machine Learning Internship", "Deep Learning Internship (2026)"]
     currently  = ["Final Year Project: Parwarish.ai", "Diving deeper into the AI world"]
+    side_quest = "Building my own J.A.R.V.I.S."
     goal       = "Find my expertise in AI and found an innovative tech company"
 ```
 
 I'm a software engineering student whose heart is in **AI and machine learning**. I've completed an ML internship and a Deep Learning internship, and I love taking models from idea to a working product, from training my own models to wrapping them in real applications.
 
-<br/>
+<div align="center"><img src="./assets/divider.svg" width="100%" alt="" /></div>
 
 ## 🚀 Featured Project
 
 <div align="center">
 
 <a href="https://github.com/Arslan-SoftwareEngineer/Parwarish-ai">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2c5364,100:0f2027&height=140&section=header&text=Parwarish.ai&fontSize=44&fontColor=ffffff&fontAlignY=38&desc=AI-Powered%20Multilingual%20Autism%20Support%20Platform&descSize=17&descAlignY=65" width="100%" alt="Parwarish.ai" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:9b2226,100:0d1117&height=140&section=header&text=Parwarish.ai&fontSize=44&fontColor=ffffff&fontAlignY=38&desc=AI-Powered%20Multilingual%20Autism%20Support%20Platform&descSize=17&descAlignY=65" width="100%" alt="Parwarish.ai" />
 </a>
 
 </div>
@@ -63,65 +66,18 @@ I'm a software engineering student whose heart is in **AI and machine learning**
 `Flutter / Dart` · `ReactJS` · `Firebase` · `TensorFlow Lite` · `XLM-RoBERTa` · `Python`
 
 <div align="center">
-<a href="https://github.com/Arslan-SoftwareEngineer/Parwarish-ai"><img src="https://img.shields.io/badge/View%20Repository-Parwarish--ai-00d9ff?style=for-the-badge&logo=github&logoColor=black" alt="Repo" /></a>
+<a href="https://github.com/Arslan-SoftwareEngineer/Parwarish-ai"><img src="https://img.shields.io/badge/View%20Repository-Parwarish--ai-F5B301?style=for-the-badge&logo=github&logoColor=black" alt="Repo" /></a>
 </div>
 
 <br/>
-
-## 🧪 Projects
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🤖 <a href="https://github.com/Arslan-SoftwareEngineer/RAG-PDF-Chatbot">RAG PDF Chatbot</a></h3>
-      <p>Chat with your PDF documents. Uses Retrieval-Augmented Generation to answer questions grounded in the document's content.</p>
-      <img src="https://img.shields.io/badge/RAG-00d9ff?style=flat-square" />
-      <img src="https://img.shields.io/badge/LLM-203a43?style=flat-square" />
-      <img src="https://img.shields.io/badge/Custom%20Trained%20Model-2c5364?style=flat-square" />
-    </td>
-    <td width="50%" valign="top">
-      <h3>🛒 <a href="https://github.com/Arslan-SoftwareEngineer/E-Commerce-Web-Scraper">E-Commerce Web Scraper</a></h3>
-      <p>Collects product data from e-commerce sites and applies machine learning on top of it, including models I trained myself.</p>
-      <img src="https://img.shields.io/badge/Web%20Scraping-00d9ff?style=flat-square" />
-      <img src="https://img.shields.io/badge/Machine%20Learning-203a43?style=flat-square" />
-      <img src="https://img.shields.io/badge/Custom%20Trained%20Model-2c5364?style=flat-square" />
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🧠 <a href="https://github.com/Arslan-SoftwareEngineer/NLP-Classfication-App">NLP Classification App</a></h3>
-      <p>An application that classifies text using natural language processing models.</p>
-      <img src="https://img.shields.io/badge/NLP-00d9ff?style=flat-square" />
-      <img src="https://img.shields.io/badge/Text%20Classification-203a43?style=flat-square" />
-    </td>
-    <td width="50%" valign="top">
-      <h3>⛳ <a href="https://github.com/Arslan-SoftwareEngineer/Golf-Ball-Trajectory-System">Golf Ball Trajectory System</a></h3>
-      <p>A system that analyzes and predicts the trajectory of a golf ball.</p>
-      <img src="https://img.shields.io/badge/Trajectory%20Analysis-00d9ff?style=flat-square" />
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🚗 <a href="https://github.com/Arslan-SoftwareEngineer/Rido">Rido</a></h3>
-      <p>An app for vehicle owners to keep track of their vehicle's service records and maintenance history in one place.</p>
-      <img src="https://img.shields.io/badge/Mobile%20App-00d9ff?style=flat-square" />
-    </td>
-    <td width="50%" valign="top">
-      <h3>🚨 <a href="https://github.com/Arslan-SoftwareEngineer?tab=repositories">Safec Emergency Application</a></h3>
-      <p>An emergency guidance and response application, designed with HCI principles for fast, clear use under stress.</p>
-      <img src="https://img.shields.io/badge/HCI-00d9ff?style=flat-square" />
-      <img src="https://img.shields.io/badge/UI%2FUX-203a43?style=flat-square" />
-    </td>
-  </tr>
-</table>
 
 <div align="center">
 
-📂 **All my projects are available on my [GitHub profile](https://github.com/Arslan-SoftwareEngineer?tab=repositories).**
+📂 **More of my work is available in my [repositories](https://github.com/Arslan-SoftwareEngineer?tab=repositories).**
 
 </div>
 
-<br/>
+<div align="center"><img src="./assets/divider.svg" width="100%" alt="" /></div>
 
 ## 🛠️ Tech Stack
 
@@ -154,11 +110,20 @@ I'm a software engineering student whose heart is in **AI and machine learning**
 
 <img src="https://skillicons.dev/icons?i=git,github,linux,ubuntu,vscode&theme=dark" alt="Tools" />
 
+**DevOps & Deployment**
+
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
+<img src="https://img.shields.io/badge/Apache%20Tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=black" alt="Tomcat" />
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit" />
+<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
+<img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Netlify" />
+
 <br/>
 
 <img src="https://img.shields.io/badge/Transformers-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Transformers" />
-<img src="https://img.shields.io/badge/BERT-2c5364?style=for-the-badge" alt="BERT" />
-<img src="https://img.shields.io/badge/Aspect--Based%20Sentiment%20Analysis-203a43?style=for-the-badge" alt="ABSA" />
+<img src="https://img.shields.io/badge/BERT-9b2226?style=for-the-badge" alt="BERT" />
+<img src="https://img.shields.io/badge/Aspect--Based%20Sentiment%20Analysis-7f1d1d?style=for-the-badge" alt="ABSA" />
 <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" alt="Ollama" />
 <img src="https://img.shields.io/badge/Groq-F55036?style=for-the-badge" alt="Groq" />
 
@@ -171,18 +136,19 @@ I'm a software engineering student whose heart is in **AI and machine learning**
 - **Machine Learning:** Scikit-Learn, model training and evaluation
 - **Deep Learning:** PyTorch, TensorFlow / TensorFlow Lite
 - **NLP:** Transformers, BERT models, Aspect-Based Sentiment Analysis
-- **LLM Applications:** RAG pipelines, local and hosted inference with Ollama and Groq
+- **Generative AI & LLM Applications:** RAG pipelines, local and hosted inference with Ollama and Groq
 - **Programming:** Python, C, C++ (OOP, Data Structures), Java, JavaScript, Dart, HTML, CSS
 - **Full Stack:** Flutter, React.js, Next.js, Node.js, Express.js (MERN stack)
 - **Databases:** Oracle SQL, SQL/NoSQL, MongoDB, Firebase
-- **Software Engineering:** Requirements Engineering, Software Design & Analysis, UML, Project Management (IEEE 1058 SPMP, WBS, RACI, risk management)
+- **Software Engineering:** Requirements Engineering, Software Design & Analysis, Software Construction, Testing Strategies, Quality Engineering, UML, Project Management (IEEE 1058 SPMP, WBS, RACI, risk management)
+- **DevOps & MLOps:** Docker, Kubernetes deployment, Tomcat server, Vercel, Netlify, Streamlit
 - **Design:** UI/UX and Human-Computer Interaction
 - **Networking:** Cisco Packet Tracer
 - **Tools:** Git, GitHub, Linux (Ubuntu), VS Code
 
 </details>
 
-<br/>
+<div align="center"><img src="./assets/divider.svg" width="100%" alt="" /></div>
 
 ## 🎓 Education
 
@@ -198,40 +164,34 @@ I'm a software engineering student whose heart is in **AI and machine learning**
 <summary><b>📘 Coursework (click to expand)</b></summary>
 <br/>
 
-**Completed:** Programming Fundamentals · Object-Oriented Programming · Data Structures · Databases · Computer Networks · Software Requirement Engineering · Software Design & Analysis · Human-Computer Interaction · ICT
+**Core CS & Software Engineering:** Programming Fundamentals · Object-Oriented Programming · Data Structures · Design and Analysis of Algorithms · Databases · Computer Networks · ICT
 
-**In Progress:** Full Stack Development · Software Project Management
+**Software Engineering Practice:** Software Requirement Engineering · Software Design & Analysis · Software Construction and Development · Software Testing Strategies · Software Quality Engineering · Software Project Management · Human-Computer Interaction · Agent Based Software Engineering
+
+**AI & DevOps:** Machine Learning · Deep Learning · Generative AI · DevOps Engineering (MLOps)
 
 </details>
 
-<br/>
+<div align="center"><img src="./assets/divider.svg" width="100%" alt="" /></div>
 
 ## 📊 GitHub Stats
 
 <div align="center">
 
-<img height="190" src="https://github-readme-stats.vercel.app/api?username=Arslan-SoftwareEngineer&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github" alt="GitHub stats" />
-<img height="190" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arslan-SoftwareEngineer&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages" />
+<img height="190" src="https://github-readme-stats.vercel.app/api?username=Arslan-SoftwareEngineer&show_icons=true&title_color=F5B301&icon_color=E63946&text_color=C9D1D9&bg_color=0D1117&ring_color=F5B301&hide_border=true&count_private=true&rank_icon=github" alt="GitHub stats" />
+<img height="190" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arslan-SoftwareEngineer&layout=compact&title_color=F5B301&icon_color=E63946&text_color=C9D1D9&bg_color=0D1117&ring_color=F5B301&hide_border=true&langs_count=8" alt="Top languages" />
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=Arslan-SoftwareEngineer&theme=tokyonight&hide_border=true" alt="Streak stats" />
+<img src="https://streak-stats.demolab.com?user=Arslan-SoftwareEngineer&background=0D1117&ring=E63946&fire=F5B301&currStreakNum=F5B301&currStreakLabel=E63946&sideNums=C9D1D9&sideLabels=C9D1D9&dates=8B949E&hide_border=true" alt="Streak stats" />
 
 <br/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Arslan-SoftwareEngineer&theme=tokyonight" alt="Profile details" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Arslan-SoftwareEngineer&theme=gruvbox" alt="Profile details" />
 
 </div>
 
-<br/>
-
-## 📈 Contribution Activity
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Arslan-SoftwareEngineer&bg_color=0d1117&color=00d9ff&line=2c5364&point=ffffff&area=true&hide_border=true" width="100%" alt="Activity graph" />
-</div>
-
-<br/>
+<div align="center"><img src="./assets/divider.svg" width="100%" alt="" /></div>
 
 ## 🐍 Contribution Snake
 
@@ -243,15 +203,7 @@ I'm a software engineering student whose heart is in **AI and machine learning**
   </picture>
 </div>
 
-<br/>
-
-## 🏆 Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Arslan-SoftwareEngineer&theme=onedark&no-frame=true&no-bg=true&margin-w=8&column=7" alt="Trophies" />
-</div>
-
-<br/>
+<div align="center"><img src="./assets/divider.svg" width="100%" alt="" /></div>
 
 ## 🎯 Roadmap
 
@@ -263,7 +215,7 @@ I'm a software engineering student whose heart is in **AI and machine learning**
 - [ ] 🔄 Find my area of expertise within AI
 - [ ] 🚀 Found an innovative tech company
 
-<br/>
+<div align="center"><img src="./assets/divider.svg" width="100%" alt="" /></div>
 
 ## 🤝 Let's Connect
 
@@ -275,7 +227,8 @@ I'm open to collaborating on AI/ML projects, learning from other engineers, and 
 <a href="https://www.linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <!-- TODO: replace with your email -->
 <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-<a href="https://github.com/Arslan-SoftwareEngineer"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+<!-- TODO: replace 92XXXXXXXXXX with your number: country code + number, no + or spaces (e.g. 923001234567) -->
+<a href="https://wa.me/923066330002"><img src="https://img.shields.io/badge/WhatsApp-Chat%20With%20Me-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a>
 
 <br/><br/>
 
@@ -283,6 +236,6 @@ I'm open to collaborating on AI/ML projects, learning from other engineers, and 
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=120&section=footer" width="100%" alt="Footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:b8860b,55:7f1d1d,100:0d1117&height=120&section=footer" width="100%" alt="Footer" />
 
 </div>
