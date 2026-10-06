@@ -4,7 +4,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,45:7f1d1d,100:b8860b&height=260&section=header&text=Muhammad%20Arslan%20Jaffer&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=AI%20%2F%20ML%20Enthusiast%20%E2%80%A2%20Software%20Engineer%20%E2%80%A2%20Future%20Founder&descSize=20&descAlignY=60&animation=fadeIn" width="100%" alt="Header" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,45:7f1d1d,100:b8860b&height=260&section=header&text=Muhammad%20Arslan%20Jaffer&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=AI%20%2F%20ML%20Enthusiast%20%E2%80%A2%20Software%20Engineer&descSize=20&descAlignY=60&animation=fadeIn" width="100%" alt="Header" />
 
 <img src="./assets/arc-reactor.svg" width="84" alt="Arc reactor" />
 
