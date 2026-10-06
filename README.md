@@ -106,7 +106,7 @@ My focus is applied **Deep Learning, LLM integration, and agentic workflows**, b
 **AI / ML (my main focus)**
 
 <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn&theme=dark" alt="AI and ML" />
-
+<br/>
 <img src="https://img.shields.io/badge/Transformers-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Transformers" />
 <img src="https://img.shields.io/badge/BERT-9b2226?style=for-the-badge" alt="BERT" />
 <img src="https://img.shields.io/badge/Aspect--Based%20Sentiment%20Analysis-7f1d1d?style=for-the-badge" alt="ABSA" />
@@ -133,13 +133,13 @@ My focus is applied **Deep Learning, LLM integration, and agentic workflows**, b
 **Testing**
 
 <img src="https://skillicons.dev/icons?i=selenium&theme=dark" alt="Selenium" />&nbsp;&nbsp;<img src="./assets/junit5.svg" width="48" height="48" alt="JUnit 5" />
-
+<br/>
 <img src="https://img.shields.io/badge/TestNG-E76F00?style=for-the-badge" alt="TestNG" />
 
 **Project Management**
 
 <img src="./assets/jira.svg" width="48" height="48" alt="Jira" />&nbsp;&nbsp;<img src="./assets/trello.svg" width="48" height="48" alt="Trello" />
-
+<br/>
 <img src="https://img.shields.io/badge/monday.com-FF3D57?style=for-the-badge" alt="Monday.com" />
 
 </div>
