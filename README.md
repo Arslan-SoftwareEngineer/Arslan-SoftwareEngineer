@@ -86,9 +86,7 @@ My focus is applied **Deep Learning, LLM integration, and agentic workflows**, b
 
 **Languages**
 
-<img src="https://skillicons.dev/icons?i=py,c,cpp,java,js,dart,html,css&theme=dark" alt="Languages" />
-
-<img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white" alt="C#" />
+<img src="https://skillicons.dev/icons?i=py,c,cpp,cs,java,js,dart,html,css&theme=dark" alt="Languages" />
 
 **Mobile & Web**
 
@@ -107,12 +105,11 @@ My focus is applied **Deep Learning, LLM integration, and agentic workflows**, b
 
 **Design**
 
-<img src="https://skillicons.dev/icons?i=figma&theme=dark" alt="Design" />
+<img src="https://skillicons.dev/icons?i=figma,ai&theme=dark" alt="Design" />&nbsp;&nbsp;<img src="./assets/canva.svg" width="48" height="48" alt="Canva" />
 
 **Tools & Platforms**
 
-<img src="https://skillicons.dev/icons?i=git,github,linux,ubuntu,vscode&theme=dark" alt="Tools" />
-<img src="https://img.shields.io/badge/Fedora-51A2DA?style=for-the-badge&logo=fedora&logoColor=white" alt="Fedora" />
+<img src="https://skillicons.dev/icons?i=git,github,linux,ubuntu&theme=dark" alt="Tools" />&nbsp;&nbsp;<img src="./assets/fedora.svg" width="48" height="48" alt="Fedora" />&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=vscode&theme=dark" alt="VS Code" />
 
 **DevOps & Deployment**
 
@@ -165,7 +162,7 @@ My focus is applied **Deep Learning, LLM integration, and agentic workflows**, b
 
 ## 💼 Experience
 
-**🧠 Deep Learning Intern** · Ezitech Institute, Rawalpindi · *July 2026 – September 2026*
+**🧠 Deep Learning Intern** · Ezitech Institute, Rawalpindi · *Aug 2026 – Present*
 - Developing and evaluating applied deep learning architectures and NLP pipelines, optimizing data preprocessing and model performance for production readiness.
 
 **🤖 Machine Learning Intern** · Ezitech Institute, Rawalpindi · *Aug 2025 – Sep 2025*
@@ -256,7 +253,7 @@ My focus is applied **Deep Learning, LLM integration, and agentic workflows**, b
 - [ ] 🔄 Complete and showcase the Final Year Project, **Parwarish.ai**
 - [ ] 🔄 Go deeper into AI and the wider AI world
 - [ ] 🔄 Find my area of expertise within AI
-- [ ] 🔄 Find an innovative tech company
+- [ ] 🚀 Found an innovative tech company
 
 <div align="center"><img src="./assets/divider.svg" width="100%" alt="" /></div>
 
