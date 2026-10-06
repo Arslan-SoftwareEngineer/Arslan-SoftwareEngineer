@@ -165,7 +165,7 @@ My focus is applied **Deep Learning, LLM integration, and agentic workflows**, b
 
 ## 💼 Experience
 
-**🧠 Deep Learning Intern** · Ezitech Institute, Rawalpindi · *Aug 2026 – Present*
+**🧠 Deep Learning Intern** · Ezitech Institute, Rawalpindi · *July 2026 – September 2026*
 - Developing and evaluating applied deep learning architectures and NLP pipelines, optimizing data preprocessing and model performance for production readiness.
 
 **🤖 Machine Learning Intern** · Ezitech Institute, Rawalpindi · *Aug 2025 – Sep 2025*
@@ -256,7 +256,7 @@ My focus is applied **Deep Learning, LLM integration, and agentic workflows**, b
 - [ ] 🔄 Complete and showcase the Final Year Project, **Parwarish.ai**
 - [ ] 🔄 Go deeper into AI and the wider AI world
 - [ ] 🔄 Find my area of expertise within AI
-- [ ] 🚀 Found an innovative tech company
+- [ ] 🔄 Find an innovative tech company
 
 <div align="center"><img src="./assets/divider.svg" width="100%" alt="" /></div>
 
