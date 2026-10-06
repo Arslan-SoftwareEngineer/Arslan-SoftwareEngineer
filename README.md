@@ -105,16 +105,13 @@ My focus is applied **Deep Learning, LLM integration, and agentic workflows**, b
 
 **AI / ML (my main focus)**
 
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn&theme=dark" alt="AI and ML" />
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn&theme=dark" alt="AI and ML" />&nbsp;&nbsp;<img src="./assets/groq.svg" width="48" height="48" alt="Groq" />&nbsp;&nbsp;<img src="./assets/ollama.svg" width="48" height="48" alt="Ollama" />&nbsp;&nbsp;<img src="./assets/langchain.svg" width="48" height="48" alt="LangChain" />&nbsp;&nbsp;<img src="./assets/pinecone.svg" width="48" height="48" alt="Pinecone" />
 <br/>
 <img src="https://img.shields.io/badge/Transformers-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Transformers" />
 <img src="https://img.shields.io/badge/BERT-9b2226?style=for-the-badge" alt="BERT" />
 <img src="https://img.shields.io/badge/Aspect--Based%20Sentiment%20Analysis-7f1d1d?style=for-the-badge" alt="ABSA" />
-<img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" alt="Ollama" />
-<img src="https://img.shields.io/badge/Groq-F55036?style=for-the-badge" alt="Groq" />
 <img src="https://img.shields.io/badge/LLMs-9b2226?style=for-the-badge" alt="LLMs" />
 <img src="https://img.shields.io/badge/RAG%20Pipelines-7f1d1d?style=for-the-badge" alt="RAG Pipelines" />
-<img src="https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logo=pinecone&logoColor=white" alt="Pinecone" />
 <img src="https://img.shields.io/badge/Prompt%20Engineering-9b2226?style=for-the-badge" alt="Prompt Engineering" />
 <img src="https://img.shields.io/badge/Agentic%20Workflows-7f1d1d?style=for-the-badge" alt="Agentic Workflows" />
 
@@ -151,7 +148,7 @@ My focus is applied **Deep Learning, LLM integration, and agentic workflows**, b
 - **Machine Learning:** Scikit-Learn, model training and evaluation
 - **Deep Learning:** PyTorch, TensorFlow / TensorFlow Lite
 - **NLP:** Transformers, BERT models, Aspect-Based Sentiment Analysis
-- **Generative AI & LLM Applications:** RAG pipelines, local and hosted inference with Ollama and Groq
+- **Generative AI & LLM Applications:** RAG pipelines, LangChain, local and hosted inference with Ollama and Groq
 - **Agentic Workflows:** Python agents orchestrated through n8n automation pipelines, connected to Flutter frontends
 - **Vector Databases & Prompt Engineering:** Pinecone, prompt design for LLM applications
 - **Programming:** Python, C, C++ (OOP, Data Structures), Java, C#, JavaScript, Dart, HTML, CSS
