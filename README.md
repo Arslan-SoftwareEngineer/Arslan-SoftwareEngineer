@@ -1,7 +1,5 @@
 <!-- ============================================================
   GitHub Profile README: Muhammad Arslan Jaffer (Arslan-SoftwareEngineer)
-  TODO: replace YOUR_LINKEDIN and your.email@example.com in the Connect section.
-  TODO: add your publication + internship details once the resume is shared.
 ============================================================ -->
 
 <div align="center">
@@ -39,6 +37,8 @@ class Developer:
 
 I'm a software engineering student whose heart is in **AI and machine learning**. I've completed an ML internship and a Deep Learning internship, and I love taking models from idea to a working product, from training my own models to wrapping them in real applications.
 
+My focus is applied **Deep Learning, LLM integration, and agentic workflows**, building end-to-end AI applications, cross-platform systems, and data pipelines to solve real-world problems.
+
 <div align="center"><img src="./assets/divider.svg" width="100%" alt="" /></div>
 
 ## 🚀 Featured Project
@@ -60,6 +60,7 @@ I'm a software engineering student whose heart is in **AI and machine learning**
 | 🩺 **Clinical Portal** | Tools for clinical professionals to monitor and assist |
 | 🌐 **Urdu Localization** | Built to serve local language needs |
 | 📴 **Offline Functionality** | Works where connectivity is limited |
+| 🤖 **Custom AI Agents** | Multi-platform therapy and educational system powered by custom AI agents |
 
 <img src="https://skillicons.dev/icons?i=flutter,dart,react,firebase,tensorflow,py&theme=dark" alt="Parwarish.ai stack" />
 
@@ -87,6 +88,8 @@ I'm a software engineering student whose heart is in **AI and machine learning**
 
 <img src="https://skillicons.dev/icons?i=py,c,cpp,java,js,dart,html,css&theme=dark" alt="Languages" />
 
+<img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white" alt="C#" />
+
 **Mobile & Web**
 
 <img src="https://skillicons.dev/icons?i=flutter,react,nextjs,nodejs,express&theme=dark" alt="Mobile and Web" />
@@ -109,6 +112,7 @@ I'm a software engineering student whose heart is in **AI and machine learning**
 **Tools & Platforms**
 
 <img src="https://skillicons.dev/icons?i=git,github,linux,ubuntu,vscode&theme=dark" alt="Tools" />
+<img src="https://img.shields.io/badge/Fedora-51A2DA?style=for-the-badge&logo=fedora&logoColor=white" alt="Fedora" />
 
 **DevOps & Deployment**
 
@@ -118,6 +122,7 @@ I'm a software engineering student whose heart is in **AI and machine learning**
 <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit" />
 <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
 <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Netlify" />
+<img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n" />
 
 <br/>
 
@@ -126,6 +131,11 @@ I'm a software engineering student whose heart is in **AI and machine learning**
 <img src="https://img.shields.io/badge/Aspect--Based%20Sentiment%20Analysis-7f1d1d?style=for-the-badge" alt="ABSA" />
 <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" alt="Ollama" />
 <img src="https://img.shields.io/badge/Groq-F55036?style=for-the-badge" alt="Groq" />
+<img src="https://img.shields.io/badge/LLMs-9b2226?style=for-the-badge" alt="LLMs" />
+<img src="https://img.shields.io/badge/RAG%20Pipelines-7f1d1d?style=for-the-badge" alt="RAG Pipelines" />
+<img src="https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logo=pinecone&logoColor=white" alt="Pinecone" />
+<img src="https://img.shields.io/badge/Prompt%20Engineering-9b2226?style=for-the-badge" alt="Prompt Engineering" />
+<img src="https://img.shields.io/badge/Agentic%20Workflows-7f1d1d?style=for-the-badge" alt="Agentic Workflows" />
 
 </div>
 
@@ -137,16 +147,32 @@ I'm a software engineering student whose heart is in **AI and machine learning**
 - **Deep Learning:** PyTorch, TensorFlow / TensorFlow Lite
 - **NLP:** Transformers, BERT models, Aspect-Based Sentiment Analysis
 - **Generative AI & LLM Applications:** RAG pipelines, local and hosted inference with Ollama and Groq
-- **Programming:** Python, C, C++ (OOP, Data Structures), Java, JavaScript, Dart, HTML, CSS
+- **Agentic Workflows:** Python agents orchestrated through n8n automation pipelines, connected to Flutter frontends
+- **Vector Databases & Prompt Engineering:** Pinecone, prompt design for LLM applications
+- **Programming:** Python, C, C++ (OOP, Data Structures), Java, C#, JavaScript, Dart, HTML, CSS
 - **Full Stack:** Flutter, React.js, Next.js, Node.js, Express.js (MERN stack)
 - **Databases:** Oracle SQL, SQL/NoSQL, MongoDB, Firebase
 - **Software Engineering:** Requirements Engineering, Software Design & Analysis, Software Construction, Testing Strategies, Quality Engineering, UML, Project Management (IEEE 1058 SPMP, WBS, RACI, risk management)
-- **DevOps & MLOps:** Docker, Kubernetes deployment, Tomcat server, Vercel, Netlify, Streamlit
+- **DevOps & MLOps:** Docker, Kubernetes deployment, Tomcat server, Vercel, Netlify, Streamlit, n8n
 - **Design:** UI/UX and Human-Computer Interaction
 - **Networking:** Cisco Packet Tracer
-- **Tools:** Git, GitHub, Linux (Ubuntu), VS Code
+- **Tools:** Git, GitHub, Linux (Fedora/Ubuntu), VS Code
+- **Soft Skills:** Creative problem solving, team collaboration, adaptability & self-learning, systems thinking & workflow optimization
 
 </details>
+
+<div align="center"><img src="./assets/divider.svg" width="100%" alt="" /></div>
+
+## 💼 Experience
+
+**🧠 Deep Learning Intern** · Ezitech Institute, Rawalpindi · *Aug 2026 – Present*
+- Developing and evaluating applied deep learning architectures and NLP pipelines, optimizing data preprocessing and model performance for production readiness.
+
+**🤖 Machine Learning Intern** · Ezitech Institute, Rawalpindi · *Aug 2025 – Sep 2025*
+- Executed data pre-processing, model evaluation, and optimization pipelines using Python and TensorFlow.
+
+**🗄️ Technical Intern** · Acro Weaving and Spinning Mills, Lahore · *Dec 2024 – Jan 2025*
+- Managed corporate database systems within the IT department to ensure accurate and efficient organizational record-keeping.
 
 <div align="center"><img src="./assets/divider.svg" width="100%" alt="" /></div>
 
@@ -157,6 +183,8 @@ I'm a software engineering student whose heart is in **AI and machine learning**
 | 🏫 Institution | 📖 Degree | 📅 Duration |
 |:---:|:---:|:---:|
 | **Air University, Islamabad** | BS Software Engineering | 2023 - 2027 |
+| **Army Public School & College System, Rawalpindi** | FSc (Pre-Engineering) | Sep 2021 - Jun 2023 |
+| **Army Public School & College System, Rawalpindi** | Matric SSc (ICS) | Apr 2019 - Jul 2021 |
 
 </div>
 
@@ -171,6 +199,21 @@ I'm a software engineering student whose heart is in **AI and machine learning**
 **AI & DevOps:** Machine Learning · Deep Learning · Generative AI · DevOps Engineering (MLOps)
 
 </details>
+
+<div align="center"><img src="./assets/divider.svg" width="100%" alt="" /></div>
+
+## 📄 Publication
+
+<img src="https://img.shields.io/badge/IBCAST-2026-F5B301?style=for-the-badge" alt="IBCAST 2026" />
+
+> K. Batool, F. Gillani, and **M. A. Jaffer**, "A Comparative Evaluation of Large Language Models for Accessibility Barrier Detection in Video Game Reviews," in *Proc. International Bhurban Conference on Applied Sciences and Technologies (IBCAST)*, 2026.
+
+<div align="center"><img src="./assets/divider.svg" width="100%" alt="" /></div>
+
+## 🌟 Leadership & Activities
+
+- 🎨 **Graphics Team Lead, Google Developer Groups (GDG) on Campus:** Directed visual branding and designed professional marketing materials, including AI-themed campaigns like *Beyond Prompting*, *Build with AI*, *AI Seekho*, *Code Air 3.0* and *Code Air 4.0*.
+- 🐾 **President, Air University Animal Welfare Society:** Orchestrated large-scale community events such as Pet Fest '26, coordinated rescue operations, and managed core society initiatives.
 
 <div align="center"><img src="./assets/divider.svg" width="100%" alt="" /></div>
 
@@ -224,10 +267,8 @@ I'm open to collaborating on AI/ML projects, learning from other engineers, and 
 <div align="center">
 
 <!-- TODO: replace YOUR_LINKEDIN with your LinkedIn username -->
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<!-- TODO: replace with your email -->
-<a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-<!-- TODO: replace 92XXXXXXXXXX with your number: country code + number, no + or spaces (e.g. 923001234567) -->
+<a href="https://www.linkedin.com/in/muhammad-arslan-jaffer"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:ars3lan.se@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 <a href="https://wa.me/923066330002"><img src="https://img.shields.io/badge/WhatsApp-Chat%20With%20Me-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a>
 
 <br/><br/>
