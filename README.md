@@ -14,7 +14,7 @@
 
 <br/>
 
-<img src="https://hits.sh/github.com/Arslan-SoftwareEngineer.svg?style=for-the-badge&label=Profile%20Views&color=F5B301&labelColor=0d1117" alt="Profile views" />
+<img src="https://komarev.com/ghpvc/?username=Arslan-SoftwareEngineer&label=Profile+Views&color=F5B301&style=for-the-badge" alt="Profile views" />
 <img src="https://img.shields.io/github/followers/Arslan-SoftwareEngineer?label=Followers&style=for-the-badge&logo=github&color=9b2226&labelColor=0d1117" alt="Followers" />
 <img src="https://img.shields.io/badge/Based%20in-Islamabad%2C%20Pakistan-0d1117?style=for-the-badge&logo=googlemaps&logoColor=F5B301" alt="Location" />
 
