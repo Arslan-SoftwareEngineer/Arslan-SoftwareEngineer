@@ -261,7 +261,7 @@ My focus is applied **Deep Learning, LLM integration, and agentic workflows**, b
 - [ ] 🔄 Complete and showcase the Final Year Project, **Parwarish.ai**
 - [ ] 🔄 Go deeper into AI and the wider AI world
 - [ ] 🔄 Find my area of expertise within AI
-- [ ] 🚀 Found an innovative tech company
+- [ ] 🏭 Find an innovative tech company
 
 <div align="center"><img src="./assets/divider.svg" width="100%" alt="" /></div>
 
